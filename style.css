@@ -1,0 +1,18 @@
+body {
+    width: 1024px;
+    margin: 0 auto;
+    background-color: rgba(181, 235, 211, .5);
+    font-family: Roboto;
+}
+
+.photo {
+    width: 200px;
+    position: absolute;
+    top: 30px;
+    right: 350px;
+    border: rgba(117, 235, 182, 1) solid 2px;
+}
+
+.photo:hover {
+    width: 400px;
+}
