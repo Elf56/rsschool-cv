@@ -1,1 +1,1 @@
-https://your-github-account.github.io/rsschool-cv/
+https://elf56.github.io/rsschool-cv/
